@@ -29,6 +29,13 @@ class Solution:
             head = head.next
         return resp
 
+    def addOtherTwo(self, l1, l2):
+        carry = None
+    
+
+        
+            
+
 def getHead(arr1):
     head = ListNode(arr1[0])
     current = head
